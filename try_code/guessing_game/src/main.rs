@@ -3,7 +3,7 @@ use std::cmp::Ordering;
 use std::io;
 
 fn main() {
-    println!("Adivinhe o numero Seu Nesio!!");
+    println!("Adivinhe o numero, Berebebelll!!");
 
     let secret_number = rand::thread_rng().gen_range(1..=100);
 

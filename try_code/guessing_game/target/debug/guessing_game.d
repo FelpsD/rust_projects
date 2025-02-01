@@ -1,1 +1,1 @@
-/home/bluelizard/Desktop/rust_projects/guessing_game/target/debug/guessing_game: /home/bluelizard/Desktop/rust_projects/guessing_game/src/main.rs
+C:\Git\rust_projects\try_code\guessing_game\target\debug\guessing_game.exe: C:\Git\rust_projects\try_code\guessing_game\src\main.rs
